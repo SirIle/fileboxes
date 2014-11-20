@@ -18,7 +18,7 @@ At the moment it contains four fileboxes:
 Basic filebox containing Consul and runit support files. As they're all statically
 linked, no extra libraries are needed to get them running on BusyBox x86_64.
 
-### Nodefilebox
+### Nodejsfilebox
 
 Contains the executable for Node.js and the required libstdc++.so.6 lifted from
 Ubuntu 14.04.
